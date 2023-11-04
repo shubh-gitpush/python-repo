@@ -1,0 +1,14 @@
+git status
+git add .
+git commit-m"file name"
+git push
+recieve
+git clone
+CHANGE IN THE ORIGIN(MAIN)
+git status
+git add .
+git commit-m"file name"
+git push
+
+
+tkinter
